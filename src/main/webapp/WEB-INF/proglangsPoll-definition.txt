@@ -1,0 +1,10 @@
+JavaScript	https://www.javascript.com/
+Python	https://www.python.org/
+Java	https://www.oracle.com/java/index.html
+Swift	https://developer.apple.com/swift/
+C++	https://en.wikipedia.org/wiki/C%2B%2B
+Ruby	https://www.ruby-lang.org/en/
+C#	https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+PHP	https://en.wikipedia.org/wiki/PHP
+Go	https://golang.org/
+Haskell	https://www.haskell.org/

@@ -1,0 +1,3 @@
+Glasanje za omiljeni bend	Od sljedećih bendova, koji Vam je bend najdraži? Kliknite na link kako biste glasali!	bandPoll-definition.txt
+Glasanje za omiljeni instrument	Od sljedećih instrumenata, koji Vam je instrument najdraži? Kliknite na link kako biste glasali!	musicalInstrument-definition.txt
+Glasanje za omiljeni programski jezik	Od sljedećih programskih jezika koji Vam je najdraži? Kliknite na link kako biste glasali!	proglangsPoll-definition.txt
